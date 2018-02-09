@@ -2,6 +2,7 @@
 # Language: R
 # Input: CSV (time-series values)
 # Output: TXT (test results)
+# Tested with: PluMA 1.0, R 3.2.5
 
 PluMA plugin to run the Augmented Dickey-Fuller Test (Said and Dickey, 1984)
 on a time-series dataset.  The purpose is to determine regression by computing
