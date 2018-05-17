@@ -1,0 +1,2 @@
+Prefix plugins/DickeyFuller/example/
+Plugin DickeyFuller inputfile sunglasses.csv outputfile sunglasses.df.txt
