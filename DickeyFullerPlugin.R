@@ -1,9 +1,9 @@
+if(!(require(tseries))) install.packages('tseries')
 library('tseries')
 
 input <- function(inputfile) {
   pc <<- read.csv(inputfile, header=FALSE);
 }
-
 
 run <- function() {
    pc <<- as.numeric(as.character(unlist(pc)));
